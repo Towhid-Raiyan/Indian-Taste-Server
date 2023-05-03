@@ -15,6 +15,13 @@ app.get('/data',(req,res)=>{
     res.send(data);
 })
 
+app.get('/data/:id',(req,res)=>{
+  const id = parseInt(req.params.id);
+  console.log(id);
+  const selectedChef = data.find(chef=>parseInt(chef.id) == id);
+  res.send(selectedChef);
+})
+
 app.listen(port, () => {
   console.log(`Dragon API is running on port: ${port}`)
 })

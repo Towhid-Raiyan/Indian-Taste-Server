@@ -10,6 +10,7 @@
         "recipes": [
             {
                 "name": "Chicken Tikka Masala",
+                "recipe_id":1,
                 "ingredients": ["boneless chicken", "yogurt", "tomatoes", "onion", "ginger", "garlic", "garam masala", "turmeric", "chili powder", "cream", "salt", "oil"],
                 "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Then, grill or bake the chicken until cooked through. In a separate pan, cook the onion, ginger, and garlic until softened. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add the cooked chicken to the sauce and simmer for 10-15 minutes. Finish with a swirl of cream.",
                 "ratings": 4.8,
@@ -17,6 +18,7 @@
             },
             {
                 "name": "Chana Masala",
+                "recipe_id":2,
                 "ingredients": ["chickpeas", "onion", "tomatoes", "ginger", "garlic", "cumin", "coriander", "garam masala", "chili powder", "lemon juice", "salt", "oil"],
                 "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the chickpeas, and simmer until the chickpeas are cooked through. Finish with a squeeze of lemon juice.",
                 "ratings": 4.5,
@@ -24,6 +26,7 @@
             },
             {
                 "name": "Saag Paneer",
+                "recipe_id":3,
                 "ingredients": ["spinach", "paneer", "onion", "tomatoes", "ginger", "garlic", "garam masala", "turmeric", "cream", "salt", "oil"],
                 "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Add in the cubed paneer and simmer for a few minutes. Finish with a swirl of cream.",
                 "ratings": 4.7,
@@ -42,6 +45,7 @@
         "recipes": [
           {
             "name": "Butter Chicken",
+            "recipe_id":1,
             "ingredients": ["boneless chicken", "yogurt", "tomatoes", "onion", "ginger", "garlic", "garam masala", "cumin", "coriander", "chili powder", "cream", "butter", "salt", "oil"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Then, grill or bake the chicken until cooked through. In a separate pan, cook the onion, ginger, and garlic until softened. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add the cooked chicken to the sauce and simmer for 10-15 minutes. Finish with a swirl of cream and butter.",
             "ratings": 4.9,
@@ -49,6 +53,7 @@
           },
           {
             "name": "Palak Paneer",
+            "recipe_id":2,
             "ingredients": ["spinach", "paneer", "onion", "tomatoes", "ginger", "garlic", "garam masala", "cumin", "coriander", "turmeric", "cream", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Add in the cubed paneer and simmer for a few minutes. Finish with a swirl of cream.",
             "ratings": 4.7,
@@ -56,6 +61,7 @@
           },
           {
             "name": "Aloo Gobi",
+            "recipe_id":3,
             "ingredients": ["potatoes", "cauliflower", "onion", "tomatoes", "ginger", "garlic", "cumin", "coriander", "turmeric", "chili powder", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the potatoes and cauliflower, and cook until they are tender. Add salt to taste.",
             "ratings": 4.4,
@@ -74,6 +80,7 @@
         "recipes": [
           {
             "name": "Butter Chicken",
+            "recipe_id":1,
             "ingredients": ["chicken", "yogurt", "ginger", "garlic", "tomatoes", "ghee", "cream", "garam masala", "turmeric", "chili powder", "kasuri methi", "salt", "sugar"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Grill or bake the chicken until cooked through. In a separate pan, cook the ginger and garlic until fragrant. Add in the chopped tomatoes and cook until they break down. Add in the ghee, cream, and remaining spices, and simmer for 10-15 minutes. Add the cooked chicken to the sauce and simmer for a few more minutes. Finish with a sprinkle of kasuri methi.",
             "ratings": 4.9,
@@ -81,6 +88,7 @@
           },
           {
             "name": "Palak Paneer",
+            "recipe_id":2,
             "ingredients": ["spinach", "paneer", "onion", "ginger", "garlic", "tomatoes", "cumin", "garam masala", "turmeric", "cream", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Transfer the mixture to a blender and blend until smooth. Return the mixture to the pan, and add the spices and cubed paneer. Simmer for a few minutes. Finish with a swirl of cream.",
             "ratings": 4.7,
@@ -88,6 +96,7 @@
           },
           {
             "name": "Chicken Biryani",
+            "recipe_id":3,
             "ingredients": ["chicken", "rice", "yogurt", "onion", "ginger", "garlic", "ghee", "cardamom", "cinnamon", "cloves", "bay leaves", "saffron", "mint leaves", "coriander leaves", "salt"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Soak the rice in water for 30 minutes. Heat ghee in a large pot, and sauté the whole spices until fragrant. Add in the onion, ginger, and garlic, and cook until softened. Add in the chicken and cook until browned. Add in the rice and enough water to cover the rice by about an inch. Add in the saffron, mint leaves, and coriander leaves. Cover and cook until the rice and chicken are cooked through. Serve hot.",
             "ratings": 4.8,
@@ -106,6 +115,7 @@
         "recipes": [
           {
             "name": "Butter Chicken",
+            "recipe_id":1,
             "ingredients": ["chicken", "yogurt", "ginger", "garlic", "tomatoes", "ghee", "cream", "garam masala", "turmeric", "chili powder", "kasuri methi", "salt", "sugar"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Grill or bake the chicken until cooked through. In a separate pan, cook the ginger and garlic until fragrant. Add in the chopped tomatoes and cook until they break down. Add in the ghee, cream, and remaining spices, and simmer for 10-15 minutes. Add the cooked chicken to the sauce and simmer for a few more minutes. Finish with a sprinkle of kasuri methi.",
             "ratings": 4.9,
@@ -113,6 +123,7 @@
           },
           {
             "name": "Palak Paneer",
+            "recipe_id":2,
             "ingredients": ["spinach", "paneer", "onion", "ginger", "garlic", "tomatoes", "cumin", "garam masala", "turmeric", "cream", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Transfer the mixture to a blender and blend until smooth. Return the mixture to the pan, and add the spices and cubed paneer. Simmer for a few minutes. Finish with a swirl of cream.",
             "ratings": 4.7,
@@ -120,6 +131,7 @@
           },
           {
             "name": "Chicken Biryani",
+            "recipe_id":3,
             "ingredients": ["chicken", "rice", "yogurt", "onion", "ginger", "garlic", "ghee", "cardamom", "cinnamon", "cloves", "bay leaves", "saffron", "mint leaves", "coriander leaves", "salt"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Soak the rice in water for 30 minutes. Heat ghee in a large pot, and sauté the whole spices until fragrant. Add in the onion, ginger, and garlic, and cook until softened. Add in the chicken and cook until browned. Add in the rice and enough water to cover the rice by about an inch. Add in the saffron, mint leaves, and coriander leaves. Cover and cook until the rice and chicken are cooked through. Serve hot.",
             "ratings": 4.8,
@@ -138,6 +150,7 @@
         "recipes": [
           {
             "name": "Butter Chicken",
+            "recipe_id":1,
             "ingredients": ["boneless chicken", "yogurt", "tomatoes", "onion", "ginger", "garlic", "garam masala", "cumin", "coriander", "chili powder", "cream", "butter", "salt", "oil"],
             "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Then, grill or bake the chicken until cooked through. In a separate pan, cook the onion, ginger, and garlic until softened. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add the cooked chicken to the sauce and simmer for 10-15 minutes. Finish with a swirl of cream and butter.",
             "ratings": 4.9,
@@ -145,6 +158,7 @@
           },
           {
             "name": "Palak Paneer",
+            "recipe_id":2,
             "ingredients": ["spinach", "paneer", "onion", "tomatoes", "ginger", "garlic", "garam masala", "cumin", "coriander", "turmeric", "cream", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Add in the cubed paneer and simmer for a few minutes. Finish with a swirl of cream.",
             "ratings": 4.7,
@@ -152,6 +166,7 @@
           },
           {
             "name": "Aloo Gobi",
+            "recipe_id":3,
             "ingredients": ["potatoes", "cauliflower", "onion", "tomatoes", "ginger", "garlic", "cumin", "coriander", "turmeric", "chili powder", "salt", "oil"],
             "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the potatoes and cauliflower, and cook until they are tender. Add salt to taste.",
             "ratings": 4.4,
@@ -170,6 +185,7 @@
         "recipes": [
             {
                 "name": "Chicken Tikka Masala",
+                "recipe_id":1,
                 "ingredients": ["boneless chicken", "yogurt", "tomatoes", "onion", "ginger", "garlic", "garam masala", "turmeric", "chili powder", "cream", "salt", "oil"],
                 "cooking_method": "Marinate the chicken in yogurt and spices for at least an hour. Then, grill or bake the chicken until cooked through. In a separate pan, cook the onion, ginger, and garlic until softened. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add the cooked chicken to the sauce and simmer for 10-15 minutes. Finish with a swirl of cream.",
                 "ratings": 4.8,
@@ -177,6 +193,7 @@
             },
             {
                 "name": "Chana Masala",
+                "recipe_id":2,
                 "ingredients": ["chickpeas", "onion", "tomatoes", "ginger", "garlic", "cumin", "coriander", "garam masala", "chili powder", "lemon juice", "salt", "oil"],
                 "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the chickpeas, and simmer until the chickpeas are cooked through. Finish with a squeeze of lemon juice.",
                 "ratings": 4.5,
@@ -184,6 +201,7 @@
             },
             {
                 "name": "Saag Paneer",
+                "recipe_id":3,
                 "ingredients": ["spinach", "paneer", "onion", "tomatoes", "ginger", "garlic", "garam masala", "turmeric", "cream", "salt", "oil"],
                 "cooking_method": "Heat oil in a pan, and sauté the onion, ginger, and garlic until golden. Add in the spices and cook for a minute or two. Add in the chopped tomatoes and cook until they break down. Add in the spinach, and cook until wilted. Add in the cubed paneer and simmer for a few minutes. Finish with a swirl of cream.",
                 "ratings": 4.7,
